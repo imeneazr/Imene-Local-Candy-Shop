@@ -1,0 +1,137 @@
+h1{
+    text-align: center;
+    -webkit-text-stroke: 1.5px rgb(92, 76, 163);
+    color:rgb(105, 105, 231);
+    font-family: tahoma;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+    color: rgb(90, 90, 165);
+}
+.img1{
+    height: 7cm;
+    width: 9cm;
+    clip-path: circle();
+    opacity: 95%;
+    padding: 5px;
+    border: 5px solid rgb(158, 158, 238);
+    position: absolute;
+    top:130px;
+    border:3px solid rgb(90, 90, 165)
+
+}
+.img2{
+    height: 7cm;
+    width: 9cm;
+    clip-path: circle();
+    opacity: 90%;
+    padding: 5px;
+    border: 5px solid rgb(90, 90, 165);
+    position: absolute;
+    top:430px;
+}
+.img3{
+    height: 7cm;
+    width: 9cm;
+    clip-path: circle();
+    opacity: 90%;
+    padding: 5px;
+    border: 5px solid rgb(90, 90, 165);
+    position: absolute;
+    top:730px;
+
+}
+div{
+    background-color: pink;
+    opacity: 100%;
+}
+p{
+    color:rgb(102, 102, 160);
+    position: absolute;
+    top:215px;
+    left:350px;
+    right:300px;
+    font-size: x-large;
+    font-family:'poppins';
+    border:solid rgb(255, 192, 203);
+    border-width: 12px;
+    border-radius: 3cm;
+    background-color:rgb(255, 192, 203);
+}
+.p2{
+    color:rgb(102, 102, 160);
+    position: absolute;
+    top:498px
+}
+.p3{
+    color: rgb(102, 102, 160);
+    position: absolute;
+    top:800px;
+}
+button{
+    font-size: 20px;
+    background-color: pink;
+    color:rgb(105, 105, 231);
+    border-radius: 15px;
+    position: absolute;
+    top:330px;
+    right:300px;
+    opacity: 070%;
+}
+.button2{
+    font-size: 20px;
+    background-color: pink;
+    color:rgb(105, 105, 231);
+    border-radius: 15px;
+    position: absolute;
+    top:640px;
+    right:300px;
+    opacity:70%;
+}
+.button3{
+    font-size: 20px;
+    background-color: pink;
+    color:rgb(105, 105, 231);
+    border-radius: 15px;
+    position: absolute;
+    top:942px;
+    right:300px;
+    opacity:70%;
+}
+
+.gif1{
+    height: 250px;
+    position: relative;
+    top:0px;
+    left:1065px;
+    opacity: 80%;
+
+}
+.gif2{
+    height: 250px;
+    position: relative;
+    top:50px;
+    left:1075px;
+    opacity: 80%;
+}
+.p4{
+    position: relative;
+    top:-35px;
+    left:1100px;
+    height: 60px;
+    width:200px;
+    color: rgb(90, 90, 165);
+    background-color: pink;
+    border: 3px solid rgba(90, 90, 165, 0.301);
+}
+.p5{
+    position: relative;
+    top:15px;
+    left:1100px;
+    height: 60px;
+    width:200px;
+    color: rgb(90, 90, 165);
+    background-color: pink;
+    border: 3px solid rgba(90, 90, 165, 0.301);
+}
